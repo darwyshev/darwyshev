@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋, I'm KuzeWh AKA Prayoga</h1>
+<h1 align="center">Hi 👋, I'm Darie AKA Prayoga</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuzewh&label=Profile%20views&color=0e75b6&style=flat" alt="kuzewh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuzewh" alt="kuzewh" /></a> </p>
 
-- 🔭 I’m currently working on **SWproject**
-
-- 🌱 I’m currently learning **C++**
-
-- 👯 I’m looking to collaborate on **SWproject**
-
-- 🤝 I’m looking for help with **SWProject**
+- 🌱 I’m currently learning **C++, C#**
 
 - 💬 Ask me about **HTML, CSS**
 
