@@ -1,4 +1,7 @@
-<img src="1041uuu.gif"></img>
+<img align="center"src="download.gif"></img>
+
+![Your Banner Image](download.gif)
+
 <h1 align="center">Hi 👋, I'm Darie AKA Prayoga</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darwyshev&label=Profile%20views&color=0e75b6&style=flat" alt="darwyshev" /> </p>
 
