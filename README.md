@@ -31,7 +31,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cpp,cs,dart,flutter,mysql,androidstudio,figma,discord,git,github,gmail,instagram,linkedin,notion,vscode,visualstudio,windows,vercel)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darwyshev&show_icons=true&locale=en&layout=compact" alt="darwyshev" /></p>
 
