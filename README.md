@@ -30,7 +30,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
 <img align="center" href="HTML.svg" height="30" width="40" />
 <img align="center" href="CSS.svg" height="30" width="40" />
 <img align="center" href="JavaScript.svg" height="30" width="40" />
@@ -40,7 +39,6 @@
 <img align="center" href="CS.svg" height="30" width="40" />
 <img align="center" href="Dart-Dark.svg" height="30" width="40" />
 <img align="center" href="MySQL-Dark.svg" height="30" width="40" />
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darwyshev&show_icons=true&locale=en&layout=compact" alt="darwyshev" /></p>
 
