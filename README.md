@@ -1,4 +1,4 @@
-<img align="center"src="download.gif"></img>
+<img align="center" src="download.gif"></img>
 
 ![Your Banner Image](download.gif)
 
