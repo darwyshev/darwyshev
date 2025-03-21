@@ -33,6 +33,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cpp,cs,dart,flutter,mysql,androidstudio,figma,discord,git,github,gmail,instagram,linkedin,notion,vscode,visualstudio,windows,vercel)](https://skillicons.dev)
 
+<img align="center" src="github-user-contribution.svg" width=1000px></img>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darwyshev&show_icons=true&locale=en&layout=compact" alt="darwyshev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darwyshev&show_icons=true&locale=en" alt="darwyshev" /></p>
