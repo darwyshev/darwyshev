@@ -1,4 +1,4 @@
-<img align="center" src="This pin is all about coding.png" width=1000px></img>
+<img align="center" src="This pin is all about coding.gif" width=1000px></img>
 
 <h1 align="center">Hi 👋, I'm Darie AKA Prayoga</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darwyshev&label=Profile%20views&color=0e75b6&style=flat" alt="darwyshev" /> </p>
