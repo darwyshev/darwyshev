@@ -1,7 +1,8 @@
 <img align="center" src="This pin is all about coding.gif" width=1000px></img>
 
 <h1 align="center">Hi 👋, I'm Darie AKA Prayoga</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darwyshev&label=Profile%20views&color=0e75b6&style=flat" alt="darwyshev" /> </p>
+
+![](https://komarev.com/ghpvc/?username=darwyshev&show_sytle=for-the-badge&)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darwyshev" alt="darwyshev" /></a> </p>
 
@@ -35,7 +36,7 @@
 
 <img align="center" src="github-user-contribution.svg" width=1000px></img>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwyshev&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github&icons=true&theme=radical&hide_border=true&card_width=1000px&)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwyshev&show_rank_icon=github&icons=true&theme=radical&hide_border=true&card_width=1000px&)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=darwyshev&show_icons=true&locale=en&layout=donut&theme=radical&hide_border=true&card_width=1000px&)](https://github.com/anuraghazra/github-readme-stats)
 
