@@ -37,7 +37,7 @@
 
 <img align="center" src="github-user-contribution.svg" width=1000px></img>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwyshev&show_rank_icon=github&icons=true&theme=radical&hide_border=true&card_width=1000px&)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwyshev&show=rank_icon=github&icons=true&theme=radical&hide_border=true&card_width=1000px&)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=darwyshev&show_icons=true&locale=en&layout=donut&theme=radical&hide_border=true&card_width=1000px&)](https://github.com/anuraghazra/github-readme-stats)
 
