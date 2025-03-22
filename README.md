@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I think im so attractive**
 
-<h3 align="left"><img src="connection.gif" width="20px" border-radius="10px">Connect with me:</h3>
+<h3 align="left"><img src="connection.gif" width="30px" border-radius="10%">  Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/darius wiryawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darius wiryawan" height="30" width="40" /></a>
 <a href="https://instagram.com/o.akairoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="o.akairoo" height="30" width="40" /></a>
@@ -30,7 +30,7 @@
 <a href="https://discord.gg/OrioXx#0644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="OrioXx#0644" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"><img src="repair-tools.gif" width="20px" border-radius="10px">Languages and Tools:</h3>
+<h3 align="left"><img src="repair-tools.gif" width="20px" border-radius="10%">  Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cpp,cs,dart,flutter,mysql,androidstudio,figma,discord,git,github,gmail,instagram,linkedin,notion,vscode,visualstudio,windows,vercel)](https://skillicons.dev)
 
