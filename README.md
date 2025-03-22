@@ -7,7 +7,7 @@
 
 <h3 align="left">  About me:</h3>
 
-- 🔭 I’m currently learning on ****
+- 🔭 I’m currently learning on **SMKN 4 Malang**
 
 - 🌱 I’m currently exploring **JavaScript, C++, C#**
 
