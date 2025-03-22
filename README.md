@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Darie AKA Prayoga</h1>
 
-![](https://komarev.com/ghpvc/?username=darwyshev&show_sytle=for-the-badge&)
+![](https://komarev.com/ghpvc/?username=darwyshev&for-the-badge&)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darwyshev" alt="darwyshev" /></a> </p>
 
