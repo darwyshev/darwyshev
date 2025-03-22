@@ -1,9 +1,10 @@
-
 <img align="center" src="This pin is all about coding.gif" width=1000px></img>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=5000&pause=300&color=fe428e&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Hello+hello+I'm+Darie%2C+a+tech+addictioner+%E2%9C%A9" width="100%" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=darwyshev&theme=monokai&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+> _"Anchored by the wisdom of timeless classics, I write, I code, and I aim true. An AWPer in the arena, a seeker of fiction's depths, a strategist of stories untold."_
 
 <h3 align="left">  About me:</h3>
 
