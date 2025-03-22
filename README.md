@@ -5,10 +5,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=darwyshev&theme=monokai&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+<h3 align="left">  About me:</h3>
 
-- 🔭 I’m currently working on **rpk**
+- 🔭 I’m currently learning on ****
 
-- 🌱 I’m currently learning **C++, C#**
+- 🌱 I’m currently exploring **JavaScript, C++, C#**
 
 - 👯 I’m looking to collaborate on **rpk**
 
@@ -20,7 +21,7 @@
 
 - ⚡ Fun fact **I think im so attractive**
 
-  ![](https://komarev.com/ghpvc/?username=darwyshev&style=for-the-badge&color=fe428e)
+![](https://komarev.com/ghpvc/?username=darwyshev&style=for-the-badge&color=fe428e)
 
 <h3 align="left">  Connect with me:</h3>
 <p align="left">
@@ -44,3 +45,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=darwyshev&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&card_width=1000px&)](https://github.com/anuraghazra/github-readme-stats)
 
+> _“Technology is best when it brings people together.”_
